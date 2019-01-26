@@ -9,7 +9,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from googletrans import Translator
 import youtube_dl
-#TEGUH SUMARNO AHLI BOT LINE
+#TEGUH S- GUNAKAN BOTS DENGAN BIJAK
 #=============
 cl = LineClient("EMAIL","PASWOD")
 cl.log("Auth Token : " + str(cl.authToken))
