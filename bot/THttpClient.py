@@ -1,6 +1,3 @@
-#LICENCE :   http://www.apache.org/licenses/LICENSE-2.0
-#CREATOR BY : PRANKBOT
-#MOD BY ACIL
 from io import BytesIO
 import os
 import socket
