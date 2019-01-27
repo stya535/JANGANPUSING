@@ -1,6 +1,6 @@
 #LICENCE :   http://www.apache.org/licenses/LICENSE-2.0
-#CREATOR BY : PRANKBOT
-#MOD BY ACIL
+#CREATOR BY : SADIS
+#MOD BY SADIS
 from __future__ import division
 import zlib
 from .TTransport import TTransportBase, CReadableTransport
