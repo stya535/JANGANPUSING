@@ -1,6 +1,6 @@
 #LICENCE :   http://www.apache.org/licenses/LICENSE-2.0
-#CREATOR BY : PRANKBOT
-#MOD BY ACIL
+#CREATOR BY : SADIS
+#MOD BY SADIS
 import errno
 import logging
 import os
