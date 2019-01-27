@@ -1,8 +1,8 @@
 #LICENCE :   http://www.apache.org/licenses/LICENSE-2.0
-#CREATOR BY : PRANKBOT
-#MOD BY ACIL
-from struct import pack, unpack
-from thrift.unverting import TException
+#CREATOR BY : SADIS
+#MOD BY SADIS
+dari  paket impor struct  , bongkar 
+dari  penghematan . menghapus  impor  TException
 from ..compat import BufferIO
 class TTransportException(TException):
     UNKNOWN = 0
