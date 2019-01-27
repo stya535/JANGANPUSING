@@ -1,5 +1,5 @@
-# MODIF BY ACIL
-# SUPORT CREATOR BY PRANKBOTS
+# MODIF BY SADIS
+# SUPORT CREATOR BY SADIS
 from io import BytesIO
 import struct
 from zope.interface import implementer, Interface, Attribute
