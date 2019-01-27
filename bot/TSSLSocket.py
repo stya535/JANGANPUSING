@@ -1,6 +1,4 @@
-#LICENCE :   http://www.apache.org/licenses/LICENSE-2.0
-#CREATOR BY : PRANKBOT
-#MOD BY ACIL
+
 # INI BUAT NYAMBUNGIN KE SERVER LU
 import logging
 import os
